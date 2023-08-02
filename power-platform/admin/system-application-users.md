@@ -41,6 +41,7 @@ Most of these users are hidden from user views but they can be found by using th
 | Finance and Operations Runtime Integration User | FinanceandOperations<br />RuntimeIntegrationUser<br />@onmicrosoft.com |Service application to perform dual-write data integration between Dataverse and finance and operations apps. |Finance and Operations Integration User |
 | # SIAutoCapture | SIAutoCapture@onmicrosoft.com | To be used for Auto Capture solution business requirements to perform data query and execute plugins from backend services. | SalesInsights AutoCapture Admin |
 | # Dynamics 365 Sales | Dynamics365Sales@onmicrosoft.com | To allow Dynamics 365 Sales to communicate with Dataverse and Azure Data Lake for analysis and data updates. | Sales system data sync and EAC App Access |
+| # UnifiedRouting_Assignment_App | UnifiedRouting_Assignment_App@onmicrosoft.com | To allow Unified Routing Assignmnent to communicate with Dataverse  | Service Reader, Service Writer and Service Deletor |
 | Microsoft Project | Project@microsoft.com |Allow Project for the Web and Roadmap Service to communicate with Dataverse. |Project System and Portfolio User |
 | Power Apps Checker Application | Pacheckerapp@microsoft.com |To perform static analysis of Power Apps solutions to assist in identifying performance and stability risks. |Export customizations and Solution checker |
 | Powerqueryonline-CDStoAzuredatalake | Powerqueryonline-<br />CDStoAzuredatalake<br />@onmicrosoft.com |Service application to perform data query between Dataverse and Azure Data Lake. |N/A |
